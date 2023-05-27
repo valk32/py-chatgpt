@@ -1,4 +1,3 @@
-# django-chatgpt-chatbot
 # Integrate ChatGPT in Django and build Chatbot
 
 # Description
