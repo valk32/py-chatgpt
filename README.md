@@ -1,11 +1,10 @@
 # Integrate ChatGPT in Django and build Chatbot
 
 # Description
-This project shows how to integrate chatGPT in Django<br />
-to build a chatbot
+This project shows how to integrate chatGPT in Django to build a chatbot
 
 ## Technology Stack
-Backend: Django, <br />
+Backend: Django <br />
 Frontend: HTML, jQuery (Ajax)
 
 
