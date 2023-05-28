@@ -30,4 +30,4 @@ Setup Open AI Usagage limit: https://platform.openai.com/account/billing/limits<
 7. Visit the server link (http://localhost:8000/)
 
 ## Video Demo
-coming soon
+https://youtu.be/VnzqWOIrZ9E
